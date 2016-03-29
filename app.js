@@ -9,8 +9,8 @@ app.use(bodyParser.json());
 
 // smaple key - don't use this :D
 var options = {
-    apiKey: '54e3a88bf1f0bc82664c7f443eb6258a44c3266',
-    username: 'flo.jacq',
+    apiKey: 'API_KEY',
+    username: 'USERNAME',
     format: 'json'
 };
 
